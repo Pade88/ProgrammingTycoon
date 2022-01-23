@@ -1,0 +1,9 @@
+{
+  "name" : "HTML",
+  "value_per_step" : "0.0001",
+  "multiplier" : "1",
+  "multiplier_at_step": "5",
+  "level_up_cost" : "0.001",
+  "level_up_cost_multiplier": "10",
+  "manager_cost" : "1.0"
+}
